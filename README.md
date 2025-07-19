@@ -43,9 +43,7 @@ A complex SQL query was written to:
 - Map coordinates to **boroughs and neighborhoods**
 - Round trip durations to 10-minute bins for aggregation
 
-```
-
-> Resulting dataset from the query was exported from BigQuery and imported into Tableau.
+> Resulting dataset from the query was exported from BigQuery and imported into Tableau.   
 
 ---
 
