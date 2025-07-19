@@ -12,7 +12,7 @@ details, and weather data to uncover urban mobility patterns.
 ## 🧰 Tools & Technologies Used
 
 - **Google BigQuery** – SQL-based data extraction, aggregation and transformation
-  - Query available in the other file named:
+  - Query available in the other file named: 'NYC Citi Bikes.sql'
 - **Public Datasets**:
   - `bigquery-public-data.new_york_citibike.citibike_trips`
   - `bigquery-public-data.noaa_gsod.gsod20*`
